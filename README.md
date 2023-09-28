@@ -2,13 +2,15 @@
 This is a repository created specially for Hacktoberfest 2023 Contribution.
 Looking out to contribute with some good quality codes
 Go for it!!!
+
 <div align="center">
-  
 [check out the guidelines](https://github.com/krishnapatidar458/basic-problems-in-c.github.io/blob/main/CONTRIBUTING.md)
 
 </div>
 
-Welcome to the C Language Basic-Problem Solving Repository! This repository is dedicated to solving a list of programming questions in the C language. We invite you to contribute your solutions to these problems and help build a valuable resource for C programmers.
+Welcome to the C Language Basic-Problem Solving Repository! 
+This repository is dedicated to solving a list of programming questions in the C language. 
+We invite you to contribute your solutions to these problems and help build a valuable resource for C programmers.
 
 ## Table of Contents
 
@@ -62,8 +64,8 @@ To get started, make sure you have the following tools installed on your system:
 Clone the repository:
 
 ```bash
-git clone https://github.com/krishnapatidar458/basic-problems-in-c.github.git
-cd basic-problems-in-c
+git clone https://github.com/krishnapatidar458/C-problems-Hacktoberfest2023.git
+cd C-problems-Hacktoberfest2023
 ```
 
 Now you're ready to start solving problems and contributing!
@@ -78,7 +80,7 @@ a keyboard of various data types and print them.\
 **Question 3:** Write a C language program to print the sum of first n natural numbers.\
 **Question 4:** Write a C language program to find if the year is a leap or not.\
 **Question 5:** Write a C language program to find the factorial of a positive integer. (number read from keyboard)\
-**Question 6:** Write aC language program to print the area of geometrical shapes – triangle, rectangle, circle, etc.\
+**Question 6:** Write a C language program to print the area of geometrical shapes – triangle, rectangle, circle, etc.\
 **Question 7:** Write a C language program to print weekdays using a switch case statement.\
 **Question 8:** Write a C language program to design a calculator using arithmetic operators using switch case statements. \
 **Question 9:** Write a C language program to print all numbers between 1 to 50 using all three C language loops (while, DO While, and For Loop).\
@@ -178,7 +180,7 @@ To maintain consistency, please follow these code style guidelines:
 
 ## License
 
-This repository is licensed under the MIT License. By contributing to this repository, you agree to license your contributions under the same license.
+This repository is licensed under the GNU License. By contributing to this repository, you agree to license your contributions under the same license.
 
 Happy coding, and let's work together to build a fantastic resource for C programmers! Your contributions are highly appreciated.
 
