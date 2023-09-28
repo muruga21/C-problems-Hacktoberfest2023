@@ -174,4 +174,5 @@ This repository is licensed under the MIT License. By contributing to this repos
 
 Happy coding, and let's work together to build a fantastic resource for C programmers! Your contributions are highly appreciated.
 
+#hactoberfest2023
 **krishnapatidar458**
