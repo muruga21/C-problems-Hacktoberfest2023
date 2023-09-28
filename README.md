@@ -27,11 +27,11 @@ We welcome contributions from developers of all skill levels. Whether you're a b
 
 3. **Adding New Problems:** If you have a new C programming question you'd like to see in the list, please create an issue to discuss it or submit a pull request with the new problem and solution.
 
-4. **Documentation:** Improve the README, provide better explanations for the questions, or add usage examples.
+4. **Documentation:** Improve the README, provide better explanations for the questions or add usage examples.
 
 5. **Bug Fixes:** If you come across any issues or bugs, please report them by creating an issue or, if possible, submit a pull request with a fix.
 
-6. **Review and Feedback:** Review pull requests, provide constructive feedback, and help maintain the quality of the solutions.
+6. **Review and Feedback:** Review pull requests, provide constructive feedback and help maintain the quality of the solutions.
 
 To contribute, follow these steps:
 
@@ -54,8 +54,8 @@ To get started, make sure you have the following tools installed on your system:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/c-language-problems.git
-cd c-language-problems
+git clone https://github.com/krishnapatidar458/basic-problems-in-c.github.git
+cd basic-problems-in-c
 ```
 
 Now you're ready to start solving problems and contributing!
@@ -64,16 +64,16 @@ Now you're ready to start solving problems and contributing!
 
 Here is the list of C programming questions you can work on:
 
-**Question 1:** Write a C language program to print Hello word!.\
+**Question 1:** Write a C language program to print Hello Word!.\
 **Question 2:** Write a C language program to read input from 
-keyboard of various data types and print them.\
-**Question 3:** Write a C language program to print sum of first n natural numbers.\
-**Question 4:** Write a C language program to find year is leap or not.\
+a keyboard of various data types and print them.\
+**Question 3:** Write a C language program to print the sum of first n natural numbers.\
+**Question 4:** Write a C language program to find if the year is a leap or not.\
 **Question 5:** Write a C language program to find the factorial of a positive integer. (number read from keyboard)\
-**Question 6:** Write aC language program to print area of geometrical shapes – triangle, rectangle, circle etc.\
-**Question 7:** Write a C language program to print week day using switch case statement.\
-**Question 8:** Write a C language program to design calculator using arithmetic operators using switch case statement. \
-**Question 9:** Write a C language program to print all numbers in between 1 to 50 using all three C language loops (while, DO While and For Loop).\
+**Question 6:** Write aC language program to print the area of geometrical shapes – triangle, rectangle, circle, etc.\
+**Question 7:** Write a C language program to print weekdays using a switch case statement.\
+**Question 8:** Write a C language program to design a calculator using arithmetic operators using switch case statements. \
+**Question 9:** Write a C language program to print all numbers between 1 to 50 using all three C language loops (while, DO While, and For Loop).\
 **Question 10:** Write a C language program to print all alphabet from a to z using all three C language loops (while, DO While and For Loop). \
 **Question 11:** Write a C language program to print all alphabet 
 from z to a using all three C language loops (while, DO While and For Loop). \
