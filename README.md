@@ -1,4 +1,12 @@
-# C Language Basic-Problem Solving Repository
+# C Language Basic-Problems Repository for Hactoberfest2023
+This is a repository created specially for Hacktoberfest 2023 Contribution.
+Looking out to contribute with some good quality codes
+Go for it!!!
+<div align="center">
+  
+[check out the guidelines](https://github.com/krishnapatidar458/basic-problems-in-c.github.io/blob/main/CONTRIBUTING.md)
+
+</div>
 
 Welcome to the C Language Basic-Problem Solving Repository! This repository is dedicated to solving a list of programming questions in the C language. We invite you to contribute your solutions to these problems and help build a valuable resource for C programmers.
 
@@ -89,64 +97,64 @@ increasing order and decreasing order 100 to 1 using three loops (while, DO
 While and For Loop).\
 **Question 18:** Write a  C language program to compute greater 
 no. from given three no. Numbers read from keyboard.\
-**Question 19:** Write a C language program to compute greater no. from given two no. Numbers read from keyboard.\
+**Question 19:** Write a C language program to compute greater no. from given two no. Numbers read from the keyboard.\
 **Question 20:** Write a C language program to swap/exchange value of a & b.\
-**Question 21:** Write a  C language program to compute greater no. from given two no. Numbers read from keyboard. \
-**Question 22:** Write a C language program to define conditional (? :) operator. \
+**Question 21:** Write a  C language program to compute greater no. from given two no. Numbers read from the keyboard. \
+**Question 22:** Write a C language program to define a conditional (? :) operator. \
 **Question 23:** Write a C language program to computer 
 arithmetical operations.\
 **Question 24:** Write a C language program to calculate root1and 
 root2 of given no. \
-**Question 25:** Write a C language program to computer vowel 
-and consonant from given character using nested if statement. \
+**Question 25:** Write a C language program to computer vowels 
+and consonants from a given character using nested if statements. \
 **Question 26:** Write a C language program to compute factorials 
 of any given no. (0!=1)\
-**Question 27:** Write a C language program to calculate area of 
-circle, triangle, Rectangle, square.\
-**Question 28:** Write a C language program to show trigonometry 
-table. (sin, cos, tan, sec, cosec, cot and angle are 0,30,45,60 and 90 degree). \
-**Question 29:** Write a C language program to calculate power of 
-no. (xy) \
-**Question 30:** Write a C language program to print and sum of 
+**Question 27:** Write a C language program to calculate the area of 
+a circle, triangle, Rectangle, or square.\
+**Question 28:** Write a C language program to show a trigonometry 
+table. (sin, cos, tan, sec, cosec, cot, and angle are 0,30,45,60 and 90 degrees). \
+**Question 29:** Write a C language program to calculate the power of 
+no. (x^y) \
+**Question 30:** Write a C language program to print and the sum of 
 Fibonacci series for a given value of n.
 0,1,1,2,3,5,8,13,21, ……..,n \
 **Question 31:** Write a C language program to show instance 
-variable, class variable and local variable. 
+variable, class variable, and local variable. 
 \
 **Question 32:** Write a C language program to convert the given 
-temperature in Fahrenheit to Celsius and Kelvin and vice versa forgetting input 
+temperature in Fahrenheit to Celsius and Kelvin and vice versa forgetting the input 
 from the user. And display the values in a tabular form.\
 C/5 = (F-32)/9 = K-273/5\
 **Question 33:** Write a C language program to explain relational 
-operator with the help of example.\
+operator with the help of an example.\
 **Question 34:** Write a C language program to explain logical 
-operator with the help of example.\
-**Question 35:** Write a C language program to explain switch 
-statement with the help of example.\
-**Question 36:** Write a C language program to explain break 
-statement with the help of example using three loops (while, DO While and For 
+operator with the help of an example.\
+**Question 35:** Write a C language program to explain the switch 
+statement with the help of an example.\
+**Question 36:** Write a C language program to explain the break 
+statement with the help of an example using three loops (while, DO While and For 
 Loop).\
-**Question 37:** Write a C language program to explain continue statement with the help of example using three loops (while, DO While and For 
+**Question 37:** Write a C language program to explain the continue statement with the help of an example using three loops (while, DO While and For 
 Loop).
 **Question 38:** Write a  C language program to determine the sum 
 of the following harmonic series for a given value of n 
 1+1/2+1/3+…….+1/n \
-**Question 39:** Write a C language program to add first seven 
+**Question 39:** Write a C language program to add the first seven 
 terms of the following series using for loop 
 1/1!+2/2!+3/3!+ …………. \
 **Question 40:** Write a C language program to test whether a 
-number given is positive or not. \
+the number given is positive or not. \
 **Question 41:** Write a C language program to obtain the age of a 
-person and tell whether the person is eligible voter or not. \
+person and tell whether the person is an eligible voter or not. \
 **Question 42:** Write a C language program to obtain principal 
-amount, and time and then calculator simple interest as per following 
+amount, and time, and then calculator simple interest as per the following 
 specifications: \
-**Question 43:** Write a C language program to print first natural 
+**Question 43:** Write a C language program to print the first natural 
 number and their sum.\
-**Question 44:** Write a C language program to print even number 
-between 50 and 100 using three loops (while, DO While and For Loop). \
+**Question 44:** Write a C language program to print an even number 
+between 50 and 100 using three loops (while, DO While, and For Loop). \
 **Question 45:** Write a C language program to find the number of 
-and sum of all integers greater than 100 and less than 200 that are divisible by 7.
+and the sum of all integers greater than 100 and less than 200 that are divisible by 7.
 
 Feel free to add more questions and solutions as you see fit.
 
@@ -174,5 +182,5 @@ This repository is licensed under the MIT License. By contributing to this repos
 
 Happy coding, and let's work together to build a fantastic resource for C programmers! Your contributions are highly appreciated.
 
-#hactoberfest2023
-**krishnapatidar458**
+[Hactoberfest2023](https://hacktoberfest.com/)\
+[**krishnapatidar458**](https://github.com/krishnapatidar458)
