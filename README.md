@@ -1,6 +1,6 @@
-# C Language Easy-Problem Solving Repository
+# C Language Basic-Problem Solving Repository
 
-Welcome to the C Language Easy-Problem Solving Repository! This repository is dedicated to solving a list of programming questions in the C language. We invite you to contribute your solutions to these problems and help build a valuable resource for C programmers.
+Welcome to the C Language Basic-Problem Solving Repository! This repository is dedicated to solving a list of programming questions in the C language. We invite you to contribute your solutions to these problems and help build a valuable resource for C programmers.
 
 ## Table of Contents
 
