@@ -4,6 +4,7 @@ Looking out to contribute with some good quality codes
 Go for it!!!
 
 <div align="center">
+    
 [check out the guidelines](https://github.com/krishnapatidar458/basic-problems-in-c.github.io/blob/main/CONTRIBUTING.md)
 
 </div>
